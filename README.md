@@ -32,7 +32,7 @@ Sample Application: https://github.com/nonrational/unibus
 
 ## Author
 
-- Alan Norton <alan@mealpal.com> [@nonrational](https://github.com/nonrational)
+- Alan Norton [@nonrational](https://github.com/nonrational)
 
 ### Giants
 
